@@ -1,0 +1,21 @@
+label {
+	width: 100px;
+	text-align: right;
+	display: inline-block;
+}
+
+input {
+	padding: 5px;
+	border-radius: 5px;
+}
+
+body{
+	background-color
+}
+section {
+	background-color: green;
+	float: left;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 5px;
+}
